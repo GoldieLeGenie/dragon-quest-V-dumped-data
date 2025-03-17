@@ -1,0 +1,163 @@
+[
+    {
+        "message1": 0,
+        "byte_1": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822002,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822009,
+        "byte_1": "01",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822012,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822018,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822019,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822015,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822022,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822025,
+        "byte_1": "01",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822028,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822029,
+        "byte_1": "01",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822032,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822035,
+        "byte_1": "01",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822038,
+        "byte_1": "01",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822041,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822042,
+        "byte_1": "02",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822053,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822047,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822050,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822056,
+        "byte_1": "01",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822059,
+        "byte_1": "01",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822005,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 822006,
+        "byte_1": "01",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    }
+]

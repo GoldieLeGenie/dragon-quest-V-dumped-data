@@ -1,0 +1,42 @@
+[
+    {
+        "exp": 0,
+        "strength": 0,
+        "agility": 0,
+        "intelligence": 0,
+        "luck": 0,
+        "HP": 0,
+        "MP": 0,
+        "battleAction1": 0,
+        "battleAction2": 0,
+        "battleAction3": 0,
+        "battleAction4": 0,
+        "normalAction1": 0,
+        "normalAction2": 0,
+        "normalAction3": 0,
+        "normalAction4": 0,
+        "vitality": 0,
+        "level": 0,
+        "dummy0": 255
+    },
+    {
+        "exp": 710,
+        "strength": 29,
+        "agility": 24,
+        "intelligence": 6,
+        "luck": 6,
+        "HP": 38,
+        "MP": 47,
+        "battleAction1": 50,
+        "battleAction2": 39,
+        "battleAction3": 4,
+        "battleAction4": 31,
+        "normalAction1": 122,
+        "normalAction2": 0,
+        "normalAction3": 0,
+        "normalAction4": 0,
+        "vitality": 7,
+        "level": 7,
+        "dummy0": 255
+    }
+]

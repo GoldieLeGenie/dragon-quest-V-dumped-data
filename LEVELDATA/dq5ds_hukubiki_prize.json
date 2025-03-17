@@ -1,0 +1,42 @@
+[
+    {
+        "prize": 0,
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "prize": 253,
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "prize": 168,
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "prize": 183,
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "prize": 182,
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "prize": 178,
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "prize": 179,
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "prize": 0,
+        "dummy0": 255,
+        "dummy1": 255
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "rate01": 0.0,
+        "rate00": 0.0,
+        "offset00": 0,
+        "offset01": 0,
+        "colorR00": 0,
+        "colorR01": 0,
+        "colorG00": 0,
+        "colorG01": 0,
+        "colorB00": 0,
+        "colorB01": 0,
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "rate01": 4.016121398754926e-42,
+        "rate00": 5.738317211410126e-42,
+        "offset00": 12,
+        "offset01": 7,
+        "colorR00": 28,
+        "colorR01": 28,
+        "colorG00": 29,
+        "colorG01": 29,
+        "colorB00": 31,
+        "colorB01": 31,
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "rate01": 9.755839908629376e-42,
+        "rate00": 5.738317211410126e-42,
+        "offset00": 17,
+        "offset01": 16,
+        "colorR00": 31,
+        "colorR01": 31,
+        "colorG00": 14,
+        "colorG01": 14,
+        "colorB00": 0,
+        "colorB01": 0,
+        "dummy0": 255,
+        "dummy1": 255
+    }
+]

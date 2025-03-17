@@ -1,0 +1,1382 @@
+[
+    {
+        "monsterID1": 0,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 18,
+        "monsterID2": 11,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "39",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 38,
+        "monsterID2": 222,
+        "monsterID3": 30,
+        "monsterID4": 0,
+        "byte_1": "3d",
+        "byte_2": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 39,
+        "monsterID2": 30,
+        "monsterID3": 27,
+        "monsterID4": 0,
+        "byte_1": "1a",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 27,
+        "monsterID2": 29,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "32",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 123,
+        "monsterID2": 123,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 178,
+        "monsterID2": 176,
+        "monsterID3": 177,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "02",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 75,
+        "monsterID2": 45,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "39",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 194,
+        "monsterID2": 193,
+        "monsterID3": 195,
+        "monsterID4": 0,
+        "byte_1": "0b",
+        "byte_2": "03",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 217,
+        "monsterID2": 207,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "39",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 237,
+        "monsterID2": 236,
+        "monsterID3": 238,
+        "monsterID4": 239,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 241,
+        "monsterID2": 240,
+        "monsterID3": 242,
+        "monsterID4": 243,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 240,
+        "monsterID2": 241,
+        "monsterID3": 241,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 240,
+        "monsterID2": 242,
+        "monsterID3": 243,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "02",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 10,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "05",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 7,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "04",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 25,
+        "monsterID2": 26,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "1a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 199,
+        "monsterID2": 205,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 207,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "02",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 95,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "02",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 131,
+        "monsterID2": 152,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 134,
+        "monsterID2": 151,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 164,
+        "monsterID2": 168,
+        "monsterID3": 158,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 114,
+        "monsterID2": 146,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 181,
+        "monsterID2": 170,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 185,
+        "monsterID2": 169,
+        "monsterID3": 143,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 160,
+        "monsterID2": 190,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "11",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 208,
+        "monsterID2": 206,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "21",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 129,
+        "monsterID2": 115,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "12",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 135,
+        "monsterID2": 156,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 161,
+        "monsterID2": 98,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "12",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 177,
+        "monsterID2": 178,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "12",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 160,
+        "monsterID2": 114,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 219,
+        "monsterID2": 213,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "19",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 169,
+        "monsterID2": 129,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 179,
+        "monsterID2": 172,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 180,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "02",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 188,
+        "monsterID2": 184,
+        "monsterID3": 167,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 190,
+        "monsterID2": 193,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 187,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "03",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 185,
+        "monsterID2": 169,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "0a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 172,
+        "monsterID2": 198,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 174,
+        "monsterID2": 193,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "11",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 222,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "03",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 245,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 26,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "03",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 225,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 226,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 227,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 38,
+        "monsterID2": 3,
+        "monsterID3": 18,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 44,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 50,
+        "monsterID2": 47,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 50,
+        "monsterID2": 47,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 61,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "02",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 58,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 64,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 60,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "02",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 66,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 67,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "03",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 76,
+        "monsterID2": 128,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 131,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 129,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "02",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 131,
+        "monsterID2": 125,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 98,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 141,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 165,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 17,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 228,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 82,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 87,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 166,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 157,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "02",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 88,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 157,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 230,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 182,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "02",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 235,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 197,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "02",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 231,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 232,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 54,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 69,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 90,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 93,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 109,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 15,
+        "monsterID2": 8,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "1a",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 4,
+        "monsterID2": 3,
+        "monsterID3": 1,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 40,
+        "monsterID2": 28,
+        "monsterID3": 29,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 222,
+        "monsterID2": 222,
+        "monsterID3": 222,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 8,
+        "monsterID2": 10,
+        "monsterID3": 8,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 32,
+        "monsterID2": 24,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 23,
+        "monsterID2": 13,
+        "monsterID3": 20,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 14,
+        "monsterID2": 11,
+        "monsterID3": 12,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 34,
+        "monsterID2": 29,
+        "monsterID3": 29,
+        "monsterID4": 24,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 26,
+        "monsterID2": 20,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 5,
+        "monsterID2": 3,
+        "monsterID3": 6,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 25,
+        "monsterID2": 15,
+        "monsterID3": 21,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 19,
+        "monsterID2": 19,
+        "monsterID3": 19,
+        "monsterID4": 19,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 222,
+        "monsterID2": 1,
+        "monsterID3": 2,
+        "monsterID4": 6,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 6,
+        "monsterID2": 5,
+        "monsterID3": 9,
+        "monsterID4": 3,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 25,
+        "monsterID2": 21,
+        "monsterID3": 11,
+        "monsterID4": 12,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 45,
+        "monsterID2": 30,
+        "monsterID3": 9,
+        "monsterID4": 222,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 41,
+        "monsterID2": 51,
+        "monsterID3": 42,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 36,
+        "monsterID2": 46,
+        "monsterID3": 46,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 41,
+        "monsterID2": 51,
+        "monsterID3": 46,
+        "monsterID4": 34,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 36,
+        "monsterID2": 38,
+        "monsterID3": 52,
+        "monsterID4": 49,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 52,
+        "monsterID2": 55,
+        "monsterID3": 72,
+        "monsterID4": 60,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 48,
+        "monsterID2": 41,
+        "monsterID3": 70,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 53,
+        "monsterID2": 58,
+        "monsterID3": 62,
+        "monsterID4": 70,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 42,
+        "monsterID2": 49,
+        "monsterID3": 57,
+        "monsterID4": 51,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 62,
+        "monsterID2": 46,
+        "monsterID3": 78,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 58,
+        "monsterID2": 73,
+        "monsterID3": 80,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 72,
+        "monsterID2": 74,
+        "monsterID3": 79,
+        "monsterID4": 85,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 86,
+        "monsterID2": 71,
+        "monsterID3": 83,
+        "monsterID4": 79,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 73,
+        "monsterID2": 78,
+        "monsterID3": 53,
+        "monsterID4": 81,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 92,
+        "monsterID2": 92,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 91,
+        "monsterID2": 86,
+        "monsterID3": 102,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 98,
+        "monsterID2": 91,
+        "monsterID3": 101,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 74,
+        "monsterID2": 100,
+        "monsterID3": 78,
+        "monsterID4": 101,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 96,
+        "monsterID2": 95,
+        "monsterID3": 86,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 101,
+        "monsterID2": 103,
+        "monsterID3": 94,
+        "monsterID4": 85,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 96,
+        "monsterID2": 80,
+        "monsterID3": 104,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 113,
+        "monsterID2": 119,
+        "monsterID3": 111,
+        "monsterID4": 112,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 199,
+        "monsterID2": 201,
+        "monsterID3": 202,
+        "monsterID4": 206,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 99,
+        "monsterID2": 105,
+        "monsterID3": 113,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 115,
+        "monsterID2": 86,
+        "monsterID3": 91,
+        "monsterID4": 83,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 70,
+        "monsterID2": 106,
+        "monsterID3": 27,
+        "monsterID4": 42,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 115,
+        "monsterID2": 94,
+        "monsterID3": 119,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 112,
+        "monsterID2": 121,
+        "monsterID3": 122,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 133,
+        "monsterID2": 116,
+        "monsterID3": 108,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 71,
+        "monsterID2": 45,
+        "monsterID3": 75,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 134,
+        "monsterID2": 124,
+        "monsterID3": 129,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 118,
+        "monsterID2": 135,
+        "monsterID3": 131,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 132,
+        "monsterID2": 127,
+        "monsterID3": 125,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 134,
+        "monsterID2": 119,
+        "monsterID3": 134,
+        "monsterID4": 124,
+        "byte_1": "09",
+        "byte_2": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 134,
+        "monsterID2": 120,
+        "monsterID3": 97,
+        "monsterID4": 0,
+        "byte_1": "09",
+        "byte_2": "01",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 229,
+        "monsterID2": 0,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "01",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "monsterID1": 8,
+        "monsterID2": 126,
+        "monsterID3": 0,
+        "monsterID4": 0,
+        "byte_1": "12",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    }
+]

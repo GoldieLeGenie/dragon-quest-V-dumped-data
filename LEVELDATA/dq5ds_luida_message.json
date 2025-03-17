@@ -1,0 +1,212 @@
+[
+    {
+        "message1": 0,
+        "byte_1": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830002,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830003,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830004,
+        "byte_1": "01",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830008,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830009,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830012,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830015,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830018,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830019,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830020,
+        "byte_1": "02",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830023,
+        "byte_1": "02",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830026,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830030,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830033,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830037,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830040,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830041,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830044,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830047,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830049,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830050,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830053,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830056,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830059,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830063,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830066,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830069,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830072,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "message1": 830075,
+        "byte_1": "01",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "message1": 11582,
+        "byte_1": "1e",
+        "dummy0": 0,
+        "dummy1": 0,
+        "dummy2": 0
+    },
+    {
+        "message1": 8,
+        "byte_1": "1e",
+        "dummy0": 0,
+        "dummy1": 0,
+        "dummy2": 0
+    },
+    {
+        "message1": 0,
+        "byte_1": "00",
+        "dummy0": 0,
+        "dummy1": 0,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967040,
+        "byte_1": "62",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "65",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "66",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967041,
+        "byte_1": "69",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967041,
+        "byte_1": "6c",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "6f",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "70",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "73",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "74",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "77",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "7a",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "7d",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967041,
+        "byte_1": "7e",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967041,
+        "byte_1": "7f",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "82",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "85",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967041,
+        "byte_1": "88",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "8b",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "8c",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967041,
+        "byte_1": "8f",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967041,
+        "byte_1": "92",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "93",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967042,
+        "byte_1": "96",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967041,
+        "byte_1": "99",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "9c",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "9f",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "a2",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967041,
+        "byte_1": "a5",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    },
+    {
+        "message1": 4294967043,
+        "byte_1": "a6",
+        "dummy0": 162,
+        "dummy1": 12,
+        "dummy2": 0
+    }
+]

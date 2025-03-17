@@ -1,0 +1,1402 @@
+[
+    {
+        "floorNum": 251,
+        "chapter": 1,
+        "tileID": 1
+    },
+    {
+        "floorNum": 252,
+        "chapter": 1,
+        "tileID": 2
+    },
+    {
+        "floorNum": 253,
+        "chapter": 1,
+        "tileID": 2
+    },
+    {
+        "floorNum": 1,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 2,
+        "chapter": 1,
+        "tileID": 6
+    },
+    {
+        "floorNum": 3,
+        "chapter": 1,
+        "tileID": 5
+    },
+    {
+        "floorNum": 4,
+        "chapter": 1,
+        "tileID": 6
+    },
+    {
+        "floorNum": 5,
+        "chapter": 1,
+        "tileID": 6
+    },
+    {
+        "floorNum": 6,
+        "chapter": 1,
+        "tileID": 6
+    },
+    {
+        "floorNum": 7,
+        "chapter": 1,
+        "tileID": 6
+    },
+    {
+        "floorNum": 8,
+        "chapter": 1,
+        "tileID": 5
+    },
+    {
+        "floorNum": 9,
+        "chapter": 1,
+        "tileID": 5
+    },
+    {
+        "floorNum": 10,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 11,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 12,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 13,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 14,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 15,
+        "chapter": 1,
+        "tileID": 6
+    },
+    {
+        "floorNum": 16,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 17,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 259,
+        "chapter": 1,
+        "tileID": 9
+    },
+    {
+        "floorNum": 260,
+        "chapter": 1,
+        "tileID": 9
+    },
+    {
+        "floorNum": 261,
+        "chapter": 1,
+        "tileID": 10
+    },
+    {
+        "floorNum": 262,
+        "chapter": 1,
+        "tileID": 10
+    },
+    {
+        "floorNum": 263,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 264,
+        "chapter": 1,
+        "tileID": 11
+    },
+    {
+        "floorNum": 265,
+        "chapter": 1,
+        "tileID": 11
+    },
+    {
+        "floorNum": 266,
+        "chapter": 1,
+        "tileID": 11
+    },
+    {
+        "floorNum": 267,
+        "chapter": 1,
+        "tileID": 11
+    },
+    {
+        "floorNum": 601,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 602,
+        "chapter": 1,
+        "tileID": 16
+    },
+    {
+        "floorNum": 603,
+        "chapter": 1,
+        "tileID": 17
+    },
+    {
+        "floorNum": 604,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 605,
+        "chapter": 1,
+        "tileID": 0
+    },
+    {
+        "floorNum": 606,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 607,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 608,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 609,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 610,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 611,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 251,
+        "chapter": 2,
+        "tileID": 21
+    },
+    {
+        "floorNum": 252,
+        "chapter": 2,
+        "tileID": 21
+    },
+    {
+        "floorNum": 253,
+        "chapter": 2,
+        "tileID": 21
+    },
+    {
+        "floorNum": 254,
+        "chapter": 2,
+        "tileID": 22
+    },
+    {
+        "floorNum": 255,
+        "chapter": 2,
+        "tileID": 22
+    },
+    {
+        "floorNum": 256,
+        "chapter": 2,
+        "tileID": 22
+    },
+    {
+        "floorNum": 257,
+        "chapter": 2,
+        "tileID": 22
+    },
+    {
+        "floorNum": 258,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 1,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 2,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 3,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 4,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 5,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 6,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 7,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 8,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 9,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 10,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 11,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 12,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 13,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 14,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 15,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 16,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 17,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 47,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 48,
+        "chapter": 2,
+        "tileID": 24
+    },
+    {
+        "floorNum": 49,
+        "chapter": 2,
+        "tileID": 24
+    },
+    {
+        "floorNum": 401,
+        "chapter": 2,
+        "tileID": 26
+    },
+    {
+        "floorNum": 402,
+        "chapter": 2,
+        "tileID": 26
+    },
+    {
+        "floorNum": 403,
+        "chapter": 2,
+        "tileID": 27
+    },
+    {
+        "floorNum": 404,
+        "chapter": 2,
+        "tileID": 27
+    },
+    {
+        "floorNum": 405,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 601,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 602,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 603,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 604,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 605,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 268,
+        "chapter": 2,
+        "tileID": 30
+    },
+    {
+        "floorNum": 269,
+        "chapter": 2,
+        "tileID": 31
+    },
+    {
+        "floorNum": 270,
+        "chapter": 2,
+        "tileID": 31
+    },
+    {
+        "floorNum": 271,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 272,
+        "chapter": 2,
+        "tileID": 35
+    },
+    {
+        "floorNum": 443,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 444,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 273,
+        "chapter": 2,
+        "tileID": 38
+    },
+    {
+        "floorNum": 274,
+        "chapter": 2,
+        "tileID": 39
+    },
+    {
+        "floorNum": 275,
+        "chapter": 2,
+        "tileID": 39
+    },
+    {
+        "floorNum": 276,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 277,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 278,
+        "chapter": 2,
+        "tileID": 40
+    },
+    {
+        "floorNum": 279,
+        "chapter": 2,
+        "tileID": 40
+    },
+    {
+        "floorNum": 280,
+        "chapter": 2,
+        "tileID": 40
+    },
+    {
+        "floorNum": 281,
+        "chapter": 2,
+        "tileID": 40
+    },
+    {
+        "floorNum": 282,
+        "chapter": 2,
+        "tileID": 40
+    },
+    {
+        "floorNum": 283,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 284,
+        "chapter": 2,
+        "tileID": 40
+    },
+    {
+        "floorNum": 285,
+        "chapter": 2,
+        "tileID": 41
+    },
+    {
+        "floorNum": 286,
+        "chapter": 2,
+        "tileID": 41
+    },
+    {
+        "floorNum": 287,
+        "chapter": 2,
+        "tileID": 41
+    },
+    {
+        "floorNum": 288,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 289,
+        "chapter": 2,
+        "tileID": 42
+    },
+    {
+        "floorNum": 290,
+        "chapter": 2,
+        "tileID": 42
+    },
+    {
+        "floorNum": 291,
+        "chapter": 2,
+        "tileID": 42
+    },
+    {
+        "floorNum": 292,
+        "chapter": 2,
+        "tileID": 46
+    },
+    {
+        "floorNum": 293,
+        "chapter": 2,
+        "tileID": 47
+    },
+    {
+        "floorNum": 294,
+        "chapter": 2,
+        "tileID": 47
+    },
+    {
+        "floorNum": 295,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 296,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 297,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 298,
+        "chapter": 2,
+        "tileID": 48
+    },
+    {
+        "floorNum": 299,
+        "chapter": 2,
+        "tileID": 48
+    },
+    {
+        "floorNum": 300,
+        "chapter": 2,
+        "tileID": 48
+    },
+    {
+        "floorNum": 301,
+        "chapter": 2,
+        "tileID": 48
+    },
+    {
+        "floorNum": 302,
+        "chapter": 2,
+        "tileID": 48
+    },
+    {
+        "floorNum": 303,
+        "chapter": 2,
+        "tileID": 48
+    },
+    {
+        "floorNum": 304,
+        "chapter": 2,
+        "tileID": 49
+    },
+    {
+        "floorNum": 305,
+        "chapter": 2,
+        "tileID": 49
+    },
+    {
+        "floorNum": 306,
+        "chapter": 2,
+        "tileID": 49
+    },
+    {
+        "floorNum": 307,
+        "chapter": 2,
+        "tileID": 49
+    },
+    {
+        "floorNum": 308,
+        "chapter": 2,
+        "tileID": 50
+    },
+    {
+        "floorNum": 309,
+        "chapter": 2,
+        "tileID": 50
+    },
+    {
+        "floorNum": 310,
+        "chapter": 2,
+        "tileID": 50
+    },
+    {
+        "floorNum": 311,
+        "chapter": 2,
+        "tileID": 50
+    },
+    {
+        "floorNum": 312,
+        "chapter": 2,
+        "tileID": 50
+    },
+    {
+        "floorNum": 313,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 314,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 315,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 316,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 317,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 318,
+        "chapter": 2,
+        "tileID": 52
+    },
+    {
+        "floorNum": 319,
+        "chapter": 2,
+        "tileID": 52
+    },
+    {
+        "floorNum": 320,
+        "chapter": 2,
+        "tileID": 52
+    },
+    {
+        "floorNum": 321,
+        "chapter": 2,
+        "tileID": 52
+    },
+    {
+        "floorNum": 406,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 407,
+        "chapter": 2,
+        "tileID": 50
+    },
+    {
+        "floorNum": 408,
+        "chapter": 2,
+        "tileID": 53
+    },
+    {
+        "floorNum": 409,
+        "chapter": 2,
+        "tileID": 53
+    },
+    {
+        "floorNum": 410,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 411,
+        "chapter": 2,
+        "tileID": 53
+    },
+    {
+        "floorNum": 412,
+        "chapter": 2,
+        "tileID": 53
+    },
+    {
+        "floorNum": 413,
+        "chapter": 2,
+        "tileID": 53
+    },
+    {
+        "floorNum": 414,
+        "chapter": 2,
+        "tileID": 53
+    },
+    {
+        "floorNum": 415,
+        "chapter": 2,
+        "tileID": 53
+    },
+    {
+        "floorNum": 416,
+        "chapter": 2,
+        "tileID": 0
+    },
+    {
+        "floorNum": 417,
+        "chapter": 2,
+        "tileID": 54
+    },
+    {
+        "floorNum": 418,
+        "chapter": 2,
+        "tileID": 54
+    },
+    {
+        "floorNum": 419,
+        "chapter": 2,
+        "tileID": 54
+    },
+    {
+        "floorNum": 420,
+        "chapter": 2,
+        "tileID": 54
+    },
+    {
+        "floorNum": 421,
+        "chapter": 2,
+        "tileID": 54
+    },
+    {
+        "floorNum": 422,
+        "chapter": 2,
+        "tileID": 54
+    },
+    {
+        "floorNum": 423,
+        "chapter": 3,
+        "tileID": 60
+    },
+    {
+        "floorNum": 424,
+        "chapter": 3,
+        "tileID": 60
+    },
+    {
+        "floorNum": 425,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 426,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 427,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 428,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 429,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 430,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 431,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 432,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 433,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 434,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 435,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 436,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 437,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 438,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 439,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 440,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 441,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 442,
+        "chapter": 3,
+        "tileID": 61
+    },
+    {
+        "floorNum": 322,
+        "chapter": 3,
+        "tileID": 62
+    },
+    {
+        "floorNum": 323,
+        "chapter": 3,
+        "tileID": 62
+    },
+    {
+        "floorNum": 324,
+        "chapter": 3,
+        "tileID": 62
+    },
+    {
+        "floorNum": 325,
+        "chapter": 3,
+        "tileID": 63
+    },
+    {
+        "floorNum": 326,
+        "chapter": 3,
+        "tileID": 63
+    },
+    {
+        "floorNum": 327,
+        "chapter": 3,
+        "tileID": 63
+    },
+    {
+        "floorNum": 328,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 329,
+        "chapter": 3,
+        "tileID": 63
+    },
+    {
+        "floorNum": 330,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 333,
+        "chapter": 3,
+        "tileID": 65
+    },
+    {
+        "floorNum": 334,
+        "chapter": 3,
+        "tileID": 65
+    },
+    {
+        "floorNum": 335,
+        "chapter": 3,
+        "tileID": 65
+    },
+    {
+        "floorNum": 336,
+        "chapter": 3,
+        "tileID": 65
+    },
+    {
+        "floorNum": 337,
+        "chapter": 3,
+        "tileID": 65
+    },
+    {
+        "floorNum": 338,
+        "chapter": 3,
+        "tileID": 65
+    },
+    {
+        "floorNum": 339,
+        "chapter": 3,
+        "tileID": 65
+    },
+    {
+        "floorNum": 340,
+        "chapter": 3,
+        "tileID": 65
+    },
+    {
+        "floorNum": 341,
+        "chapter": 3,
+        "tileID": 65
+    },
+    {
+        "floorNum": 342,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 343,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 450,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 451,
+        "chapter": 3,
+        "tileID": 68
+    },
+    {
+        "floorNum": 452,
+        "chapter": 3,
+        "tileID": 68
+    },
+    {
+        "floorNum": 453,
+        "chapter": 3,
+        "tileID": 68
+    },
+    {
+        "floorNum": 454,
+        "chapter": 3,
+        "tileID": 68
+    },
+    {
+        "floorNum": 455,
+        "chapter": 3,
+        "tileID": 67
+    },
+    {
+        "floorNum": 456,
+        "chapter": 3,
+        "tileID": 67
+    },
+    {
+        "floorNum": 457,
+        "chapter": 3,
+        "tileID": 68
+    },
+    {
+        "floorNum": 458,
+        "chapter": 3,
+        "tileID": 69
+    },
+    {
+        "floorNum": 459,
+        "chapter": 3,
+        "tileID": 69
+    },
+    {
+        "floorNum": 460,
+        "chapter": 3,
+        "tileID": 69
+    },
+    {
+        "floorNum": 461,
+        "chapter": 3,
+        "tileID": 69
+    },
+    {
+        "floorNum": 462,
+        "chapter": 3,
+        "tileID": 69
+    },
+    {
+        "floorNum": 463,
+        "chapter": 3,
+        "tileID": 69
+    },
+    {
+        "floorNum": 464,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 465,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 466,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 467,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 344,
+        "chapter": 3,
+        "tileID": 70
+    },
+    {
+        "floorNum": 345,
+        "chapter": 3,
+        "tileID": 70
+    },
+    {
+        "floorNum": 346,
+        "chapter": 3,
+        "tileID": 70
+    },
+    {
+        "floorNum": 347,
+        "chapter": 3,
+        "tileID": 71
+    },
+    {
+        "floorNum": 613,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 614,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 615,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 616,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 617,
+        "chapter": 3,
+        "tileID": 72
+    },
+    {
+        "floorNum": 618,
+        "chapter": 3,
+        "tileID": 72
+    },
+    {
+        "floorNum": 619,
+        "chapter": 3,
+        "tileID": 72
+    },
+    {
+        "floorNum": 620,
+        "chapter": 3,
+        "tileID": 72
+    },
+    {
+        "floorNum": 621,
+        "chapter": 3,
+        "tileID": 72
+    },
+    {
+        "floorNum": 622,
+        "chapter": 3,
+        "tileID": 72
+    },
+    {
+        "floorNum": 623,
+        "chapter": 3,
+        "tileID": 72
+    },
+    {
+        "floorNum": 624,
+        "chapter": 3,
+        "tileID": 72
+    },
+    {
+        "floorNum": 625,
+        "chapter": 3,
+        "tileID": 72
+    },
+    {
+        "floorNum": 626,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 627,
+        "chapter": 3,
+        "tileID": 58
+    },
+    {
+        "floorNum": 628,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 348,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 349,
+        "chapter": 3,
+        "tileID": 75
+    },
+    {
+        "floorNum": 350,
+        "chapter": 3,
+        "tileID": 75
+    },
+    {
+        "floorNum": 351,
+        "chapter": 3,
+        "tileID": 75
+    },
+    {
+        "floorNum": 352,
+        "chapter": 3,
+        "tileID": 75
+    },
+    {
+        "floorNum": 353,
+        "chapter": 3,
+        "tileID": 76
+    },
+    {
+        "floorNum": 354,
+        "chapter": 3,
+        "tileID": 75
+    },
+    {
+        "floorNum": 355,
+        "chapter": 3,
+        "tileID": 76
+    },
+    {
+        "floorNum": 356,
+        "chapter": 3,
+        "tileID": 77
+    },
+    {
+        "floorNum": 357,
+        "chapter": 3,
+        "tileID": 76
+    },
+    {
+        "floorNum": 358,
+        "chapter": 3,
+        "tileID": 78
+    },
+    {
+        "floorNum": 359,
+        "chapter": 3,
+        "tileID": 77
+    },
+    {
+        "floorNum": 360,
+        "chapter": 3,
+        "tileID": 78
+    },
+    {
+        "floorNum": 361,
+        "chapter": 3,
+        "tileID": 78
+    },
+    {
+        "floorNum": 362,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 363,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 364,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 365,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 366,
+        "chapter": 3,
+        "tileID": 79
+    },
+    {
+        "floorNum": 367,
+        "chapter": 3,
+        "tileID": 79
+    },
+    {
+        "floorNum": 368,
+        "chapter": 3,
+        "tileID": 0
+    },
+    {
+        "floorNum": 369,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 370,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 371,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 372,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 373,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 374,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 375,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 376,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 377,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 378,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 379,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 380,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 381,
+        "chapter": 3,
+        "tileID": 80
+    },
+    {
+        "floorNum": 382,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 383,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 384,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 385,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 386,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 387,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 388,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 389,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 390,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 391,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 392,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 393,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 394,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 395,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 396,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 397,
+        "chapter": 3,
+        "tileID": 81
+    },
+    {
+        "floorNum": 398,
+        "chapter": 3,
+        "tileID": 0
+    }
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "turn": 0,
+        "typeID": 0,
+        "pattern": 0,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 1,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 2,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 3,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 4,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 5,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 6,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 7,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 8,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 9,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 10,
+        "pattern": 0,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 11,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 12,
+        "pattern": 0,
+        "byte_1": "10",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 13,
+        "pattern": 0,
+        "byte_1": "10",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 14,
+        "pattern": 0,
+        "byte_1": "10",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 15,
+        "pattern": 0,
+        "byte_1": "10",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 16,
+        "pattern": 0,
+        "byte_1": "10",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 17,
+        "pattern": 0,
+        "byte_1": "10",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 2,
+        "typeID": 18,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "10",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 4,
+        "typeID": 19,
+        "pattern": 2,
+        "byte_1": "b2",
+        "byte_2": "1e",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 1,
+        "typeID": 20,
+        "pattern": 3,
+        "byte_1": "32",
+        "byte_2": "14",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 4,
+        "typeID": 21,
+        "pattern": 3,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 22,
+        "pattern": 0,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 23,
+        "pattern": 0,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 24,
+        "pattern": 0,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 25,
+        "pattern": 0,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 5,
+        "typeID": 26,
+        "pattern": 4,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 27,
+        "pattern": 0,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 1,
+        "typeID": 28,
+        "pattern": 0,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 6,
+        "typeID": 29,
+        "pattern": 4,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 30,
+        "pattern": 0,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 5,
+        "typeID": 31,
+        "pattern": 2,
+        "byte_1": "32",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 32,
+        "pattern": 5,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 33,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 34,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 35,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 36,
+        "pattern": 0,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 37,
+        "pattern": 0,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 38,
+        "pattern": 0,
+        "byte_1": "34",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 39,
+        "pattern": 0,
+        "byte_1": "30",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 40,
+        "pattern": 5,
+        "byte_1": "38",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 41,
+        "pattern": 0,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 3,
+        "typeID": 42,
+        "pattern": 5,
+        "byte_1": "38",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 43,
+        "pattern": 6,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 44,
+        "pattern": 6,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 45,
+        "pattern": 0,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 255,
+        "typeID": 46,
+        "pattern": 0,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 47,
+        "pattern": 6,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 48,
+        "pattern": 0,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 49,
+        "pattern": 0,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    },
+    {
+        "turn": 0,
+        "typeID": 50,
+        "pattern": 0,
+        "byte_1": "00",
+        "byte_2": "00",
+        "dummy0": 255,
+        "dummy1": 255,
+        "dummy2": 255
+    }
+]

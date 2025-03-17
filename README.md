@@ -1,2 +1,2 @@
 # dragon-quest-V-dumped-data
-Dumped .dat file with the correct structure
+Dumped .dat files with the correct structure

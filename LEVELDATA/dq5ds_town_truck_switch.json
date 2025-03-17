@@ -1,0 +1,164 @@
+[
+    {
+        "railUid": 9525,
+        "floor": 323,
+        "split": 3,
+        "next": 4,
+        "switchUid": 9524,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9532,
+        "floor": 324,
+        "split": 41,
+        "next": 42,
+        "switchUid": 9531,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9537,
+        "floor": 324,
+        "split": 54,
+        "next": 55,
+        "switchUid": 9536,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9539,
+        "floor": 324,
+        "split": 56,
+        "next": 57,
+        "switchUid": 9538,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9549,
+        "floor": 325,
+        "split": 171,
+        "next": 172,
+        "switchUid": 9548,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9546,
+        "floor": 325,
+        "split": 199,
+        "next": 200,
+        "switchUid": 9545,
+        "byte_1": "1b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9557,
+        "floor": 326,
+        "split": 385,
+        "next": 386,
+        "switchUid": 9556,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9559,
+        "floor": 326,
+        "split": 394,
+        "next": 397,
+        "switchUid": 9558,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9567,
+        "floor": 327,
+        "split": 536,
+        "next": 545,
+        "switchUid": 9566,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9569,
+        "floor": 327,
+        "split": 534,
+        "next": 566,
+        "switchUid": 9568,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9571,
+        "floor": 327,
+        "split": 569,
+        "next": 570,
+        "switchUid": 9570,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9592,
+        "floor": 329,
+        "split": 746,
+        "next": 747,
+        "switchUid": 9591,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9594,
+        "floor": 329,
+        "split": 744,
+        "next": 745,
+        "switchUid": 9593,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9590,
+        "floor": 329,
+        "split": 715,
+        "next": 716,
+        "switchUid": 9589,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9588,
+        "floor": 329,
+        "split": 713,
+        "next": 714,
+        "switchUid": 9587,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9596,
+        "floor": 329,
+        "split": 779,
+        "next": 780,
+        "switchUid": 9595,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9598,
+        "floor": 329,
+        "split": 725,
+        "next": 724,
+        "switchUid": 9597,
+        "byte_1": "0b",
+        "dummy0": 255
+    },
+    {
+        "railUid": 9603,
+        "floor": 330,
+        "split": 511,
+        "next": 515,
+        "switchUid": 9602,
+        "byte_1": "09",
+        "dummy0": 255
+    }
+]

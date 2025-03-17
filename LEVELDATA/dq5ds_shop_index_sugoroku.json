@@ -1,0 +1,72 @@
+[
+    {
+        "area": 1,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 2,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 3,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 4,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 5,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 6,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 7,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 8,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 9,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 10,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 11,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 12,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 13,
+        "byte_1": "ff",
+        "dummy0": 255
+    },
+    {
+        "area": 14,
+        "byte_1": "ff",
+        "dummy0": 255
+    }
+]

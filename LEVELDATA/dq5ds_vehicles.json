@@ -1,0 +1,312 @@
+[
+    {
+        "shipX": 0,
+        "shipY": 0,
+        "placeNum": 0,
+        "floor": 0,
+        "id": 0,
+        "byte_1": "00",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 11034624,
+        "shipY": 2404352,
+        "placeNum": 17,
+        "floor": 35,
+        "id": 1,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 10272768,
+        "shipY": 3039232,
+        "placeNum": 17,
+        "floor": 35,
+        "id": 2,
+        "byte_1": "04",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 9760768,
+        "shipY": 5541888,
+        "placeNum": 42,
+        "floor": 135,
+        "id": 3,
+        "byte_1": "02",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 10780672,
+        "shipY": 5574656,
+        "placeNum": 42,
+        "floor": 135,
+        "id": 4,
+        "byte_1": "04",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 10338304,
+        "shipY": 6565888,
+        "placeNum": 43,
+        "floor": 473,
+        "id": 5,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 6770688,
+        "shipY": 5435392,
+        "placeNum": 35,
+        "floor": 155,
+        "id": 6,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 5607424,
+        "shipY": 4988928,
+        "placeNum": 27,
+        "floor": 179,
+        "id": 7,
+        "byte_1": "02",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 4956160,
+        "shipY": 4714496,
+        "placeNum": 27,
+        "floor": 179,
+        "id": 8,
+        "byte_1": "04",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 6443008,
+        "shipY": 7340032,
+        "placeNum": 38,
+        "floor": 171,
+        "id": 9,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 2387968,
+        "shipY": 9867264,
+        "placeNum": 54,
+        "floor": 187,
+        "id": 10,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 7614464,
+        "shipY": 13557760,
+        "placeNum": 72,
+        "floor": 51,
+        "id": 11,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 9478144,
+        "shipY": 15003648,
+        "placeNum": 74,
+        "floor": 491,
+        "id": 12,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 11841536,
+        "shipY": 13934592,
+        "placeNum": 77,
+        "floor": 494,
+        "id": 13,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 11841536,
+        "shipY": 13934592,
+        "placeNum": 68,
+        "floor": 65,
+        "id": 14,
+        "byte_1": "02",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 13156352,
+        "shipY": 12165120,
+        "placeNum": 68,
+        "floor": 65,
+        "id": 15,
+        "byte_1": "04",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 11841536,
+        "shipY": 13934592,
+        "placeNum": 65,
+        "floor": 498,
+        "id": 16,
+        "byte_1": "02",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 12800000,
+        "shipY": 12087296,
+        "placeNum": 65,
+        "floor": 498,
+        "id": 17,
+        "byte_1": "04",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 14708736,
+        "shipY": 6475776,
+        "placeNum": 48,
+        "floor": 216,
+        "id": 18,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 10043392,
+        "shipY": 4743168,
+        "placeNum": 18,
+        "floor": 101,
+        "id": 19,
+        "byte_1": "03",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 8798208,
+        "shipY": 2961408,
+        "placeNum": 18,
+        "floor": 112,
+        "id": 20,
+        "byte_1": "04",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 7745536,
+        "shipY": 4554752,
+        "placeNum": 16,
+        "floor": 117,
+        "id": 21,
+        "byte_1": "07",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 13156352,
+        "shipY": 12165120,
+        "placeNum": 85,
+        "floor": 125,
+        "id": 22,
+        "byte_1": "0c",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 13156352,
+        "shipY": 12165120,
+        "placeNum": 0,
+        "floor": 75,
+        "id": 23,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 13156352,
+        "shipY": 12165120,
+        "placeNum": 92,
+        "floor": 227,
+        "id": 24,
+        "byte_1": "1e",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 13156352,
+        "shipY": 12165120,
+        "placeNum": 87,
+        "floor": 348,
+        "id": 25,
+        "byte_1": "1e",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 7520256,
+        "shipY": 12935168,
+        "placeNum": 71,
+        "floor": 629,
+        "id": 26,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 3956736,
+        "shipY": 8364032,
+        "placeNum": 34,
+        "floor": 480,
+        "id": 27,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 1286144,
+        "shipY": 8478720,
+        "placeNum": 33,
+        "floor": 200,
+        "id": 28,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 13156352,
+        "shipY": 12165120,
+        "placeNum": 82,
+        "floor": 130,
+        "id": 29,
+        "byte_1": "09",
+        "dummy0": 255,
+        "dummy1": 255
+    },
+    {
+        "shipX": 7966720,
+        "shipY": 6254592,
+        "placeNum": 36,
+        "floor": 515,
+        "id": 30,
+        "byte_1": "06",
+        "dummy0": 255,
+        "dummy1": 255
+    }
+]
